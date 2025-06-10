@@ -8,7 +8,7 @@
 - Cycling Club
 - Calligraphy Club
 
-  ![Image](https://github.com/user-attachments/assets/b165d327-0995-4bbf-bca2-35b4d66be109)
+  ![](docs/images/images/IMG_8341.jpeg)
   ![Image](https://github.com/user-attachments/assets/7dd5601d-ff12-427f-8a9b-2bf7aa1cc0ad)
   ![Image](https://github.com/user-attachments/assets/632c0445-32d1-477a-9945-7d8a85bd0f32)
 
