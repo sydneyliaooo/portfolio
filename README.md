@@ -8,7 +8,7 @@
 - Cycling Club
 - Calligraphy Club
 
-<img src="assets/hehuan%2C%20cycling%2C%20calligraphy.png">
+<img src="assets/2.png">
 
 ## Volunteer
 ![](assets/volunteer.jpg)
