@@ -11,7 +11,7 @@
 <img src="assets/2.png">
 
 ## Volunteer
-<img src="assets/v2.png">
+<img src="assets/v3.png">
 
 - Fundraising Activities (2018-2025)
 - School Peer Tutoring (2023-2024)
