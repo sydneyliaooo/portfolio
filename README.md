@@ -8,12 +8,10 @@
 - Cycling Club
 - Calligraphy Club
 
-  ![](docs/images/images/IMG_8341.jpeg)
-  ![Image](https://github.com/user-attachments/assets/7dd5601d-ff12-427f-8a9b-2bf7aa1cc0ad)
-  ![Image](https://github.com/user-attachments/assets/632c0445-32d1-477a-9945-7d8a85bd0f32)
+<img src="assets/hehuan%2C%20cycling%2C%20calligraphy.png">
 
 ## Volunteer
-![Image](https://github.com/user-attachments/assets/a309fc12-ae5e-48ad-8e14-09eac093b5c9)
+![](assets/volunteer.jpg)
 - Fundraising Activities (2018-2025)
 - School Peer Tutoring (2023-2024)
 - Teacher Assistant (2023-2024)
@@ -29,8 +27,8 @@
 - Taitung Indigenous Community Service Team Club
 - Virtual Founders Academy Club
 - French Culture Club
-  ![Image](https://github.com/user-attachments/assets/4ad54b16-9b02-485e-bf4f-eb0e08401378)
-  ![Image](https://github.com/user-attachments/assets/3a683927-6444-4cd2-9020-f82975eb77c4)
+  ![](assets/karuta.jpg)
+  ![](assets/french%20culture%20club.JPG)
 
 ## Leadership
 - Secretary of the Taitung Indigenous Community Service Team Club
