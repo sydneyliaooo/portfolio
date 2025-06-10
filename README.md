@@ -9,7 +9,7 @@
 - Calligraphy Club
   ![Image](https://github.com/user-attachments/assets/b165d327-0995-4bbf-bca2-35b4d66be109)
   ![Image](https://github.com/user-attachments/assets/7dd5601d-ff12-427f-8a9b-2bf7aa1cc0ad)
-  ![Image](https://github.com/user-attachments/assets/632c0445-32d1-477a-9945-7d8a85bd0f32)
+  ![Image](https://github.com/user-attachments/assets/632c0445-32d1-477a-9945-7d8a85bd0f32 = 200 * 150)
 
 ## Volunteer
 - Fundraising Activities (2018-2025)
