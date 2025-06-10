@@ -28,8 +28,8 @@
 - Taitung Indigenous Community Service Team Club
 - Virtual Founders Academy Club
 - French Culture Club
-  ![](assets/karuta.jpg)
-  ![](assets/french%20culture%20club.JPG)
+
+![](assets/clubs.png)
 
 ## Leadership
 - Secretary of the Taitung Indigenous Community Service Team Club
@@ -42,3 +42,5 @@
 - National Taiwan Normal University Business Management Camp
 - National Yang Ming Chiao Tung University High School Talent Cultivation Program - Design Thinking in Big Data
 - National Yang Ming Chiao Tung University High School Talent Cultivation Program - Statistical Methods and Data Analysis
+
+![](assets/camps.png)
