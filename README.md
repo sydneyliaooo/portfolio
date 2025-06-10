@@ -7,6 +7,7 @@
 - Clarinet
 - Cycling Club
 - Calligraphy Club
+
   ![Image](https://github.com/user-attachments/assets/b165d327-0995-4bbf-bca2-35b4d66be109)
   ![Image](https://github.com/user-attachments/assets/7dd5601d-ff12-427f-8a9b-2bf7aa1cc0ad)
   ![Image](https://github.com/user-attachments/assets/632c0445-32d1-477a-9945-7d8a85bd0f32)
@@ -25,9 +26,11 @@
 - Psychology Research Club
 - AI Robotics Club
 - Japanese Competitive Karuta Club
-- Taitung Indigenous Community Service Team
-- Virtual Founders Academy
+- Taitung Indigenous Community Service Team Club
+- Virtual Founders Academy Club
 - French Culture Club
+  ![Image](https://github.com/user-attachments/assets/4ad54b16-9b02-485e-bf4f-eb0e08401378)
+  ![Image](https://github.com/user-attachments/assets/3a683927-6444-4cd2-9020-f82975eb77c4)
 
 ## Leadership
 - Secretary of the Taitung Indigenous Community Service Team Club
