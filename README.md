@@ -1,4 +1,5 @@
 # Portfolio
+<img src="assets/pics.png">
 
 ## Sports/Music
 - Climbing Hehuan Mountain
