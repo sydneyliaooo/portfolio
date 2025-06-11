@@ -38,7 +38,7 @@
 - National Taiwan University Python Programming
 - Harvard 2023 Summer Junior MBA Program
 - MacDuffie Summer School Program
-- Taipei Medical University Medical Camp
+- National Taiwan University Medical Camp
 - National Taiwan Normal University Business Management Camp
 - National Yang Ming Chiao Tung University High School Talent Cultivation Program - Design Thinking in Big Data
 - National Yang Ming Chiao Tung University High School Talent Cultivation Program - Statistical Methods and Data Analysis
