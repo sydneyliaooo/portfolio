@@ -8,7 +8,7 @@
 - Cycling Club
 - Calligraphy Club
 
-<img src="assets/2.png">
+<img src="assets/3.png">
 
 ## Volunteer
 <img src="assets/v3.png">
