@@ -4,9 +4,9 @@
 - Climbing Hehuan Mountain
 - Swim across the Sun Moon Lake
 - Cycling around Taiwan in 12 days
-- Clarinet
-- Cycling Club
-- Calligraphy Club
+- Clarinet (2020-2026)
+- Cycling Club (2021-2026)
+- Calligraphy Club (2024-2026)
 
 <img src="assets/3.png">
 
@@ -33,6 +33,9 @@
 
 ## Leadership
 - Secretary of the Taitung Indigenous Community Service Team Club
+
+## Award
+- International Kangaroo Mathematics Contest Bronze Award
 
 ## Academic Camps
 - National Taiwan University Python Programming
