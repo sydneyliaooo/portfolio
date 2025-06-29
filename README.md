@@ -1,5 +1,6 @@
 # Portfolio
-A goal-oriented and analytical person with passions for maths and business. She believes that understanding numbers and data can make a huge difference in making the world a better place. 
+A goal-oriented and analytical person with passions for maths and business. She believes that understanding numbers and data can make a huge difference in making the world a better place. In the long term, Sydney hopes to accomplish her dream of becoming a data analyst or an actuary, where she can apply data to make informed decisions and impact people's lives by helping them manage their risks.
+
 
 ## Sports/Music
 - Climbing Hehuan Mountain
