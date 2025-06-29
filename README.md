@@ -1,4 +1,5 @@
 # Portfolio
+A goal-oriented and analytical person with passions for maths and business. She believes that understanding numbers and data can make a huge difference in making the world a better place. 
 
 ## Sports/Music
 - Climbing Hehuan Mountain
